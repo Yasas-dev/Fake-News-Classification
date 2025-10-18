@@ -15,7 +15,7 @@ This project builds a fake news detection model using:
    - Evaluate its performance.
    - Allow you to input custom text to predict whether it’s *Real* or *Fake*.
 
-## Example
+
 
 ## Model
 - Saved as `fake_news_model.pkl` and `tfidf_vectorizer.pkl`
