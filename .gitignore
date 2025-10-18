@@ -1,0 +1,7 @@
+# Ignore Kaggle credentials
+kaggle.json
+~/.kaggle/
+
+# Ignore model files
+*.pkl
+*.joblib
