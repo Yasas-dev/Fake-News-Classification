@@ -28,4 +28,4 @@ After hyperparameter tuning, the **best model achieved the following results on 
 | Test F1 Score  | 0.9648 |
 | Test ROC-AUC   | 0.9937 |
 
-> **Note:** Bigram TF-IDF slightly outperformed unigram TF-IDF in both training and testing metrics.
+ **Note:** Bigram TF-IDF slightly outperformed unigram TF-IDF in both training and testing metrics.
