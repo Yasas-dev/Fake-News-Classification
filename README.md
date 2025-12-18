@@ -1,3 +1,4 @@
+
 # Fake News Detection using Logistic Regression + TF-IDF
 
 This project builds a fake news detection model using:
@@ -29,3 +30,25 @@ After hyperparameter tuning, the **best model achieved the following results on 
 | Test ROC-AUC   | 0.9937 |
 
  **Note:** Bigram TF-IDF slightly outperformed unigram TF-IDF in both training and testing metrics.
+
+# Fake News Detection System 📰⚖️
+
+A Machine Learning Web application that uses a Logistic Regression model to classify news articles as **Real** or **Fake**.
+
+## Features
+- **FastAPI Backend**: High-performance Python API for model inference.
+- **Machine Learning**: Logistic Regression with TF-IDF Bigram vectorization.
+- **Interactive UI**: Clean web interface with real-time analysis and loading states.
+- **NLTK Preprocessing**: Advanced text cleaning (lemmatization and stopword removal).
+
+## Tech Stack
+- **Python** (FastAPI, Scikit-Learn, NLTK, Joblib)
+- **Frontend** (HTML, CSS, JavaScript Fetch API)
+
+## Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone 
+   cd FakeNews
+
