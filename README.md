@@ -64,8 +64,8 @@ This section handles the deployment of the model into a functional web interface
 
 ### Installation and Setup
 
-**1. Clone the repository**
-**2. Create a Virtual Environment**
-**3. Install Dependencies**
-**4. Configure Environment**
-**5. Run the application**
+1. Clone the repository
+2. Create a Virtual Environment
+3. Install Dependencies
+4. Configure Environment
+5. Run the application
